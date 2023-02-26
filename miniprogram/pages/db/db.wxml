@@ -1,0 +1,4 @@
+<!--pages/db/db.wxml-->
+<text>pages/db/db.wxml</text>
+<button bindtap="tapsearch">数据查询</button>
+<button bindtap="tapadd">添加</button>
